@@ -1,0 +1,12 @@
+/*
+	os << "GET /LICENSE_1_0.txt HTTP/1.1\r\n";											// reques header
+	//os << "GET /cgi-bin/northsea/prsim/news/1/get_news.fcgi?user_id=5&token=12_&news_type=5&count=5&callback=jsonp HTTP/1.0\r\n";					// reques header
+	
+	os << "Accept:*.*\r\n";
+	os << "Host:www.boost.org\r\n";
+	os << "Connection:keepalive\r\n";
+	os << "Keep-Alive:300\r\n";
+	os << "Content-Type:text/html;charset=GB2312\r\n";
+	os << "\r\n";
+	//os << "user_id=5&token=12_&news_type=5&count=5&callback=jsonp";	//request data
+	*/

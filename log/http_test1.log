@@ -1,0 +1,144 @@
+============================[response]============================
+HTTP/1.1 200 OK
+
+Connection: Keep-Alive
+Content-Length: 2109
+Content-Type: text/plain; charset=UTF-8
+Date: Fri, 26 Feb 2016 10:44:28 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache/2.2.15 (CentOS)
+facility1 176  facility2 0facility1 176  facility2 0facility1 176  facility2 0facility1 176  facility2 0Content-type: text/html
+
+jsonp({
+   "jsonpcallback": "jsonp",
+   "result": [ {
+      "down": 0,
+      "from": "东方财富",
+      "id": "7ba1d7820432d1d6d686f82b7363d7ee_184301",
+      "indus": "",
+      "sect": "",
+      "stock": "",
+      "time": "2016-02-26 18:43:01",
+      "title": "旷达科技：控股股东一致行动人披露增持计划",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541733.html"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "661d5ded8044b2b9220bb10013ff482e_184301",
+      "indus": "",
+      "sect": "股东增持",
+      "stock": "",
+      "time": "2016-02-26 18:43:01",
+      "title": "奥特佳获股东增持258万股",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541881.html"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "b31cebb2b0bb02feb8230d07ace8a211_184141",
+      "indus": "计算机应用",
+      "sect": "高送转预期,足球概念,4G,职业教育,融资融券,在线教育,电子商务,手机游戏",
+      "stock": "300002",
+      "time": "2016-02-26 18:41:41",
+      "title": "神州泰岳业绩快报：去年净利降39%",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541681.html"
+   }, {
+      "down": 0,
+      "from": "同花顺",
+      "id": "03b21d583781cf43d4354f32ee781ed9_184103",
+      "indus": "",
+      "sect": "",
+      "stock": "",
+      "time": "2016-02-26 18:41:03",
+      "title": "人社部网站刊文：我国不会出现失业骤增现象",
+      "up": 0,
+      "url": "http://news.10jqka.com.cn/20160226/c588138874.shtml"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "ca4614c46d4aade3bd921a13f4271489_184037",
+      "indus": "汽车整车",
+      "sect": "车联网,特斯拉,充电桩,深港通",
+      "stock": "002594",
+      "time": "2016-02-26 18:40:37",
+      "title": "比亚迪2015年净利润逾28亿增长5.5倍",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541339.html"
+   } ],
+   "status": 1
+})facility1 176  facility2 0facility1 176  facility2 0
+[DoStopTime]:0.184 ms
+============================[response]============================
+HTTP/1.1 200 OK
+
+Connection: Keep-Alive
+Content-Length: 2109
+Content-Type: text/plain; charset=UTF-8
+Date: Fri, 26 Feb 2016 10:44:31 GMT
+Keep-Alive: timeout=15, max=100
+Server: Apache/2.2.15 (CentOS)
+facility1 176  facility2 0facility1 176  facility2 0facility1 176  facility2 0facility1 176  facility2 0Content-type: text/html
+
+jsonp({
+   "jsonpcallback": "jsonp",
+   "result": [ {
+      "down": 0,
+      "from": "东方财富",
+      "id": "7ba1d7820432d1d6d686f82b7363d7ee_184301",
+      "indus": "",
+      "sect": "",
+      "stock": "",
+      "time": "2016-02-26 18:43:01",
+      "title": "旷达科技：控股股东一致行动人披露增持计划",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541733.html"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "661d5ded8044b2b9220bb10013ff482e_184301",
+      "indus": "",
+      "sect": "股东增持",
+      "stock": "",
+      "time": "2016-02-26 18:43:01",
+      "title": "奥特佳获股东增持258万股",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541881.html"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "b31cebb2b0bb02feb8230d07ace8a211_184141",
+      "indus": "计算机应用",
+      "sect": "高送转预期,足球概念,4G,职业教育,融资融券,在线教育,电子商务,手机游戏",
+      "stock": "300002",
+      "time": "2016-02-26 18:41:41",
+      "title": "神州泰岳业绩快报：去年净利降39%",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541681.html"
+   }, {
+      "down": 0,
+      "from": "同花顺",
+      "id": "03b21d583781cf43d4354f32ee781ed9_184103",
+      "indus": "",
+      "sect": "",
+      "stock": "",
+      "time": "2016-02-26 18:41:03",
+      "title": "人社部网站刊文：我国不会出现失业骤增现象",
+      "up": 0,
+      "url": "http://news.10jqka.com.cn/20160226/c588138874.shtml"
+   }, {
+      "down": 0,
+      "from": "东方财富",
+      "id": "ca4614c46d4aade3bd921a13f4271489_184037",
+      "indus": "汽车整车",
+      "sect": "车联网,特斯拉,充电桩,深港通",
+      "stock": "002594",
+      "time": "2016-02-26 18:40:37",
+      "title": "比亚迪2015年净利润逾28亿增长5.5倍",
+      "up": 0,
+      "url": "http://finance.eastmoney.com/news/1354,20160226598541339.html"
+   } ],
+   "status": 1
+})facility1 176  facility2 0facility1 176  facility2 0
+[DoStopTime]:1.487 ms
